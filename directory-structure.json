@@ -1,0 +1,59 @@
+[
+  {
+    "directory": "1-concepts",
+    "label": "Concepts",
+    "files": [
+      "0-browser-debugger.js",
+      "1-predictive-stepping.js",
+      "2-comparing-primitives.js",
+      "3-comparing-arrays.js",
+      "4-swapping-arrays.js",
+      "5-const-and-arrays.js",
+      "6-swapping-array-entries.js",
+      "7-nesting-arrays.js",
+      "8-deep-nesting.js",
+      "9-alias-vs-copy.js",
+      "10-circular-references.js"
+    ]
+  },
+  {
+    "directory": "2-quiz",
+    "label": "Quiz",
+    "files": [],
+    "note": "open the files in the /2-quiz folder in VSCode"
+  },
+  {
+    "directory": "3-practice/0-console-assert",
+    "label": "Practice: Console Assert",
+    "files": [
+      "1-assert-basics.js",
+      "2-assert-with-variables.js"
+    ]
+  },
+  {
+    "directory": "3-practice/1-write-assertions",
+    "label": "Practice: Write Assertions",
+    "files": [
+      "1-accessing-nested-values.js",
+      "2-modifying-nested-values.js",
+      "3-nested-references.js",
+      "4-comparing-nested-arrays.js",
+      "5-swapping-nested-values.js",
+      "6-swapping-inner-arrays.js",
+      "7-mutating-inner-arrays.js",
+      "8-deep-access.js",
+      "9-reference-vs-copy.js",
+      "10-diagonal-swap.js"
+    ]
+  },
+  {
+    "directory": "3-practice/2-pass-assertions",
+    "label": "Practice: Pass Assertions",
+    "files": [
+      "1-write-the-access.js",
+      "2-write-the-modification.js",
+      "3-write-the-swap.js",
+      "4-build-the-nested-array.js"
+    ]
+  }
+]
