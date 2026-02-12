@@ -47,13 +47,35 @@
     ]
   },
   {
-    "directory": "3-practice/2-pass-assertions",
-    "label": "Practice: Pass Assertions",
+    "directory": "3-practice/2-fill-in-blanks",
+    "label": "Practice: Fill In Blanks",
     "files": [
       "1-write-the-access.js",
       "2-write-the-modification.js",
       "3-write-the-swap.js",
-      "4-build-the-nested-array.js"
+      "4-build-the-nested-array.js",
+      "5-write-the-reference.js",
+      "6-write-the-comparison.js",
+      "7-swap-the-arrays.js",
+      "8-mutate-the-arrays.js",
+      "9-write-the-deep-access.js",
+      "10-copy-vs-reference.js"
+    ]
+  },
+  {
+    "directory": "3-practice/3-write-code",
+    "label": "Practice: Write Code",
+    "files": [
+      "1-build-and-access.js",
+      "2-modify-the-grid.js",
+      "3-create-the-reference.js",
+      "4-compare-the-references.js",
+      "5-swap-the-values.js",
+      "6-swap-the-arrays.js",
+      "7-mutate-the-shelves.js",
+      "8-navigate-the-cube.js",
+      "9-alias-vs-copy.js",
+      "10-diagonal-swap.js"
     ]
   }
 ]

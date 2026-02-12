@@ -1,3 +1,5 @@
+"use strict";
+
 const grid = [
   [0, 0, 0],
   [0, 0, 0],

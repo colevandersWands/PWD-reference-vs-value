@@ -1,3 +1,5 @@
+"use strict";
+
 const data = [
   ["x", "y"],
   [1, 2],

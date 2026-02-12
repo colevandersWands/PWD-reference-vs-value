@@ -1,3 +1,5 @@
+"use strict";
+
 const menu = [
   ["coffee", "tea", "water"],
   ["cake", "pie", "cookie"],

@@ -1,3 +1,5 @@
+"use strict";
+
 const original = [[10, 20], [30, 40]];
 
 const alias = original[0];

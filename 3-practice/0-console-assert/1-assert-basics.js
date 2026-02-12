@@ -1,3 +1,5 @@
+"use strict";
+
 // console.assert(condition, message)
 //   if condition is true -> nothing happens
 //   if condition is false -> message is logged as an error

@@ -1,3 +1,5 @@
+"use strict";
+
 const matrix = [[1, 2], [3, 4]];
 
 const row0 = matrix[0];

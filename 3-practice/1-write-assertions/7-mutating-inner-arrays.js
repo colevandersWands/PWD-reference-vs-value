@@ -1,3 +1,5 @@
+"use strict";
+
 const shelves = [
   ["book", "lamp"],
   ["plant"],

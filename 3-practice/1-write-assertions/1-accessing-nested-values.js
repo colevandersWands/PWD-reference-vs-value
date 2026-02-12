@@ -1,3 +1,5 @@
+"use strict";
+
 const colors = [
   ["red", "green", "blue"],
   ["cyan", "magenta", "yellow"],

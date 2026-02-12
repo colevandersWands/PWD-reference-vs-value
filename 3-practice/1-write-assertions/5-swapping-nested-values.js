@@ -1,3 +1,5 @@
+"use strict";
+
 const pairs = [
   [1, "a"],
   [2, "b"],
